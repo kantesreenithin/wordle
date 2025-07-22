@@ -35,6 +35,7 @@ function WordleInstructionsModal({ isOpen, onClose }) {
           <span>Win: guess the word in 6 tries.</span>
           <span>Lose: run out of tries.</span>
         </div>
+        <br/>
         <button className="btn" onClick={onClose}>
           Close
         </button>
