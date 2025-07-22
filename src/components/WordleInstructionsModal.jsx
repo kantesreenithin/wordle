@@ -5,10 +5,6 @@ function WordleInstructionsModal({ isOpen, onClose }) {
   return (
     <div className="modal-backdrop">
       <div className="modal-content">
-        <button className="modal-close" onClick={onClose}>
-          &times;
-        </button>
-
         <h2>How to Play Wordle</h2>
         <p>Guess the 5-letter word in 6 tries or less!</p>
 
@@ -39,6 +35,9 @@ function WordleInstructionsModal({ isOpen, onClose }) {
           <span>Win: guess the word in 6 tries.</span>
           <span>Lose: run out of tries.</span>
         </div>
+        <button className="btn" onClick={onClose}>
+          Close
+        </button>
       </div>
     </div>
   );
