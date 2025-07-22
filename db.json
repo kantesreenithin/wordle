@@ -22,21 +22,6 @@
     { "id": 12, "word": "phone" },
     { "id": 13, "word": "bling" },
     { "id": 14, "word": "coins" },
-    { "id": 15, "word": "hello" },
-    { "id": 16, "word": "grace" },
-    { "id": 17, "word": "quick" },
-    { "id": 18, "word": "shine" },
-    { "id": 19, "word": "laugh" },
-    { "id": 20, "word": "sword" },
-    { "id": 21, "word": "brave" },
-    { "id": 22, "word": "smart" },
-    { "id": 23, "word": "flame" },
-    { "id": 24, "word": "climb" },
-    { "id": 25, "word": "beach" },
-    { "id": 26, "word": "storm" },
-    { "id": 27, "word": "glass" },
-    { "id": 28, "word": "frost" },
-    { "id": 29, "word": "trick" },
-    { "id": 30, "word": "charm" }
+    { "id": 15, "word": "hello" }
   ]
 }
